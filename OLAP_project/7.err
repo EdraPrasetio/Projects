@@ -1,0 +1,2 @@
+Error: input.csv: 101 can't compute non-numeric value 'Technology'
+Error: input.csv: more than than 100 non-numeric values found in aggregate column Sector
